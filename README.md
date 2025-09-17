@@ -1,15 +1,12 @@
 # Pokédex Nativa en Kotlin (1ª Gen)
 
-![Pokédex Header](https://i.imgur.com/URL_DE_UN_BANNER_SI_QUIERES.png)
-*(Nota: Puedes crear un banner simple con el título y subirlo a un servicio como Imgur para tener una cabecera visual).*
-
 Esta aplicación es un proyecto de portafolio diseñado para demostrar un dominio de las tecnologías y arquitecturas fundamentales del desarrollo moderno de Android nativo con Kotlin. No es solo una lista de Pokémon; es una aplicación completa, robusta y eficiente que consume una API REST pública, gestiona estados de carga y error, y presenta los datos en una interfaz de usuario pulida con Material Design 3.
 
 ## 📸 Vitrina de Funcionalidades
 
 | Splash & Lista Principal | Búsqueda en Tiempo Real | Detalles del Pokémon |
 | :---: | :---: | :---: |
-| ![Splash y Lista](URL_DE_TU_IMAGEN_SPLASH_Y_LISTA_AQUÍ) | ![Búsqueda](URL_DE_TU_IMAGEN_BUSQUEDA_AQUÍ) | ![Detalles](URL_DE_TU_IMAGEN_DETALLES_AQUÍ) |
+| ![Splash y Lista](https://github.com/FelixMGZ/API_Pokedex_Android_Studio/blob/main/img/pokedex_list.JPG) | ![Búsqueda](https://github.com/FelixMGZ/API_Pokedex_Android_Studio/blob/main/img/pokedex_busqueda.JPG) | ![Detalles](https://github.com/FelixMGZ/API_Pokedex_Android_Studio/blob/main/img/card_pokedex.JPG) |
 | *Inicio rápido con la API de Splash Screen y lista eficiente con imágenes.* | *Filtrado instantáneo con animaciones suaves gracias a `DiffUtil`.* | *Datos completos, tipos con colores y transiciones de elementos compartidos.* |
 
 *(Instrucciones: Sube tus capturas de pantalla a la raíz de tu repositorio de GitHub y reemplaza las URLs de ejemplo con la ruta relativa, ej: `screenshots/lista.png`)*
@@ -61,3 +58,5 @@ Este proyecto se construyó con un enfoque en la eficiencia, la seguridad y las 
 ## 📜 Licencia y Derechos de Autor
 
 Este proyecto fue creado con fines educativos y de portafolio. El código fuente está disponible bajo la **Licencia MIT**.
+
+Los datos son obtenidos de la increíble [PokeAPI](https://pokeapi.co/), un proyecto de código abierto.

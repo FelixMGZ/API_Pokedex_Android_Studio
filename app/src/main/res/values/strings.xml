@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_Pokedex</string>
+    <string name="evoluciones">Evoluciones</string>
+    <string name="pokemon_id_format">#%s</string>
+</resources>
